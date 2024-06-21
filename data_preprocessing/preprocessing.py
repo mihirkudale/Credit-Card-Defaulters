@@ -7,7 +7,7 @@ class Preprocessor:
 
         
         
-        Revisions: None
+        
 
         """
 
@@ -24,7 +24,7 @@ class Preprocessor:
 
                         
                         
-                        Revisions: None
+                        
 
                 """
         self.logger_object.log(self.file_object, 'Entered the remove_unwanted_spaces method of the Preprocessor class')
@@ -53,7 +53,7 @@ class Preprocessor:
 
                 
                 
-                Revisions: None
+                
 
         """
         self.logger_object.log(self.file_object, 'Entered the remove_columns method of the Preprocessor class')
@@ -79,7 +79,7 @@ class Preprocessor:
 
                         
                         
-                        Revisions: None
+                        
 
                 """
         self.logger_object.log(self.file_object, 'Entered the separate_label_feature method of the Preprocessor class')
@@ -104,7 +104,7 @@ class Preprocessor:
 
                                 
                                 
-                                Revisions: None
+                                
 
                         """
         self.logger_object.log(self.file_object, 'Entered the is_null_present method of the Preprocessor class')
@@ -221,7 +221,7 @@ class Preprocessor:
 
         
         
-        Revisions: None
+        
                                      """
         self.logger_object.log(self.file_object,
                                'Entered the handle_imbalanced_dataset method of the Preprocessor class')

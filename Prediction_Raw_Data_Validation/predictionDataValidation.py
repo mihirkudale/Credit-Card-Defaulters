@@ -18,7 +18,7 @@ class Prediction_Data_validation:
 
                
                
-               Revisions: None
+               
 
                """
 
@@ -37,7 +37,7 @@ class Prediction_Data_validation:
 
                                  
                                 
-                                Revisions: None
+                                
 
                                         """
         try:
@@ -90,7 +90,7 @@ class Prediction_Data_validation:
 
                                        
                                       
-                                      Revisions: None
+                                      
 
                                               """
         regex = "['creditCardFraud']+['\_'']+[\d_]+[\d]+\.csv"
@@ -239,7 +239,7 @@ class Prediction_Data_validation:
 
              
             
-            Revisions: None
+            
 
         """
         # delete the directories for good and bad data in case last run was unsuccessful and folders were not deleted.
@@ -292,7 +292,7 @@ class Prediction_Data_validation:
 
                      
                     
-                    Revisions: None
+                    
 
              """
         try:
@@ -336,7 +336,7 @@ class Prediction_Data_validation:
 
                                    
                                   
-                                  Revisions: None
+                                  
 
                               """
         try:

@@ -8,7 +8,7 @@ class Model_Finder:
                 This class shall  be used to find the model with best accuracy and AUC score.
                 
                 
-                Revisions: None
+                
 
                 """
 
@@ -28,7 +28,7 @@ class Model_Finder:
 
         
         
-        Revisions: None
+        
 
                         """
         self.logger_object.log(self.file_object, 'Entered the get_best_params_for_naive_bayes method of the Model_Finder class')

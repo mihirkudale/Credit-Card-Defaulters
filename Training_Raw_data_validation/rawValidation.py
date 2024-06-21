@@ -19,7 +19,7 @@ class Raw_Data_validation:
 
              
              
-             Revisions: None
+             
 
              """
 
@@ -38,7 +38,7 @@ class Raw_Data_validation:
 
                          
                         
-                        Revisions: None
+                        
 
                                 """
         try:
@@ -90,7 +90,7 @@ class Raw_Data_validation:
 
                                  
                                 
-                                Revisions: None
+                                
 
                                         """
         # sample file name: "creditCardFraud_021119920_010222.csv"
@@ -109,7 +109,7 @@ class Raw_Data_validation:
 
                                        
                                       
-                                      Revisions: None
+                                      
 
                                               """
 
@@ -245,7 +245,7 @@ class Raw_Data_validation:
 
                      
                     
-                    Revisions: None
+                    
 
                 """
 
@@ -301,7 +301,7 @@ class Raw_Data_validation:
 
                            
                           
-                          Revisions: None
+                          
 
                       """
         try:
@@ -338,7 +338,7 @@ class Raw_Data_validation:
 
                                    
                                   
-                                  Revisions: None
+                                  
 
                               """
         try:

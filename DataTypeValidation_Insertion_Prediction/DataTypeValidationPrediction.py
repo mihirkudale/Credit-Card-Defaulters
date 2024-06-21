@@ -13,7 +13,7 @@ class dBOperation:
 
           
           
-          Revisions: None
+          
 
           """
 
@@ -34,7 +34,7 @@ class dBOperation:
 
                          
                         
-                        Revisions: None
+                        
 
                         """
         try:
@@ -60,7 +60,7 @@ class dBOperation:
 
             
            
-           Revisions: None
+           
 
         """
         try:
@@ -111,7 +111,7 @@ class dBOperation:
 
                                         
                                        
-                                       Revisions: None
+                                       
 
                 """
 
@@ -161,7 +161,7 @@ class dBOperation:
 
                                         
                                        
-                                       Revisions: None
+                                       
 
                 """
 

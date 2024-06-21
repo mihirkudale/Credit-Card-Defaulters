@@ -13,7 +13,7 @@ class dBOperation:
 
       
       
-      Revisions: None
+      
 
       """
     def __init__(self):
@@ -33,7 +33,7 @@ class dBOperation:
 
                  
                 
-                Revisions: None
+                
 
                 """
         try:
@@ -58,7 +58,7 @@ class dBOperation:
 
                          
                         
-                        Revisions: None
+                        
 
                         """
         try:
@@ -129,7 +129,7 @@ class dBOperation:
 
                                 
                                
-                               Revisions: None
+                               
 
         """
 
@@ -177,7 +177,7 @@ class dBOperation:
 
                                 
                                
-                               Revisions: None
+                               
 
         """
 

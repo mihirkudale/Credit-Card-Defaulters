@@ -9,7 +9,7 @@ class KMeansClustering:
 
             
             
-            Revisions: None
+            
 
             """
 
@@ -26,7 +26,7 @@ class KMeansClustering:
 
                         
                         
-                        Revisions: None
+                        
 
                 """
         self.logger_object.log(self.file_object, 'Entered the elbow_plot method of the KMeansClustering class')
@@ -61,7 +61,7 @@ class KMeansClustering:
 
                                 
                                 
-                                Revisions: None
+                                
 
                         """
         self.logger_object.log(self.file_object, 'Entered the create_clusters method of the KMeansClustering class')

@@ -10,7 +10,7 @@ class File_Operation:
 
                 
                 
-                Revisions: None
+                
 
                 """
     def __init__(self,file_object,logger_object):
@@ -27,7 +27,7 @@ class File_Operation:
 
             
             
-            Revisions: None
+            
 """
         self.logger_object.log(self.file_object, 'Entered the save_model method of the File_Operation class')
         try:
@@ -59,7 +59,7 @@ class File_Operation:
 
                     
                     
-                    Revisions: None
+                    
         """
         self.logger_object.log(self.file_object, 'Entered the load_model method of the File_Operation class')
         try:
@@ -85,7 +85,7 @@ class File_Operation:
 
                             
                             
-                            Revisions: None
+                            
                 """
         self.logger_object.log(self.file_object, 'Entered the find_correct_model_file method of the File_Operation class')
         try:

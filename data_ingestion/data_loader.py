@@ -6,7 +6,7 @@ class Data_Getter:
 
     
     
-    Revisions: None
+    
 
     """
     def __init__(self, file_object, logger_object):
@@ -23,7 +23,7 @@ class Data_Getter:
 
          
         
-        Revisions: None
+        
 
         """
         self.logger_object.log(self.file_object,'Entered the get_data method of the Data_Getter class')

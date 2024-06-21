@@ -11,7 +11,7 @@ class dataTransformPredict:
 
                   
                   
-                  Revisions: None
+                  
 
                   """
 
@@ -31,7 +31,7 @@ class dataTransformPredict:
 
                                    
                                   
-                                  Revisions: None
+                                  
 
                                           """
 
